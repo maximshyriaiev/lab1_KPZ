@@ -1,0 +1,14 @@
+C:\VS\Lab_1_KPZ_Maksym_Shyriaiev\Lab_1_KPZ_Maksym_Shyriaiev\obj\Debug\net6.0\Lab_1_KPZ_Maksym_Shyriaiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\Lab_1_KPZ_Maksym_Shyriaiev\Lab_1_KPZ_Maksym_Shyriaiev\obj\Debug\net6.0\Lab_1_KPZ_Maksym_Shyriaiev.AssemblyInfoInputs.cache
+C:\VS\Lab_1_KPZ_Maksym_Shyriaiev\Lab_1_KPZ_Maksym_Shyriaiev\obj\Debug\net6.0\Lab_1_KPZ_Maksym_Shyriaiev.AssemblyInfo.cs
+C:\VS\Lab_1_KPZ_Maksym_Shyriaiev\Lab_1_KPZ_Maksym_Shyriaiev\obj\Debug\net6.0\Lab_1_KPZ_Maksym_Shyriaiev.csproj.CoreCompileInputs.cache
+C:\VS\Lab_1_KPZ_Maksym_Shyriaiev\Lab_1_KPZ_Maksym_Shyriaiev\bin\Debug\net6.0\Lab_1_KPZ_Maksym_Shyriaiev.exe
+C:\VS\Lab_1_KPZ_Maksym_Shyriaiev\Lab_1_KPZ_Maksym_Shyriaiev\bin\Debug\net6.0\Lab_1_KPZ_Maksym_Shyriaiev.deps.json
+C:\VS\Lab_1_KPZ_Maksym_Shyriaiev\Lab_1_KPZ_Maksym_Shyriaiev\bin\Debug\net6.0\Lab_1_KPZ_Maksym_Shyriaiev.runtimeconfig.json
+C:\VS\Lab_1_KPZ_Maksym_Shyriaiev\Lab_1_KPZ_Maksym_Shyriaiev\bin\Debug\net6.0\Lab_1_KPZ_Maksym_Shyriaiev.dll
+C:\VS\Lab_1_KPZ_Maksym_Shyriaiev\Lab_1_KPZ_Maksym_Shyriaiev\bin\Debug\net6.0\Lab_1_KPZ_Maksym_Shyriaiev.pdb
+C:\VS\Lab_1_KPZ_Maksym_Shyriaiev\Lab_1_KPZ_Maksym_Shyriaiev\obj\Debug\net6.0\Lab_1_KPZ_Maksym_Shyriaiev.dll
+C:\VS\Lab_1_KPZ_Maksym_Shyriaiev\Lab_1_KPZ_Maksym_Shyriaiev\obj\Debug\net6.0\refint\Lab_1_KPZ_Maksym_Shyriaiev.dll
+C:\VS\Lab_1_KPZ_Maksym_Shyriaiev\Lab_1_KPZ_Maksym_Shyriaiev\obj\Debug\net6.0\Lab_1_KPZ_Maksym_Shyriaiev.pdb
+C:\VS\Lab_1_KPZ_Maksym_Shyriaiev\Lab_1_KPZ_Maksym_Shyriaiev\obj\Debug\net6.0\Lab_1_KPZ_Maksym_Shyriaiev.genruntimeconfig.cache
+C:\VS\Lab_1_KPZ_Maksym_Shyriaiev\Lab_1_KPZ_Maksym_Shyriaiev\obj\Debug\net6.0\ref\Lab_1_KPZ_Maksym_Shyriaiev.dll
